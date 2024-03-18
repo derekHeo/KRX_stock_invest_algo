@@ -20,3 +20,6 @@
 * cnn_testing. > CNN 모델 + 데이터 수집 코드 + 여러가지 시도(테스트)
 * stock_2_vec. > 주식 산업별 데이터 시각화 / stock2vec 활용 시각화
 * stockchart.. > 입력 데이터를 위한 다양한 데이터 시각화
+
+## 노션
+- https://www.notion.so/6a36bfccc08440648dac6cef968c2093?pvs=4
