@@ -13,3 +13,10 @@
 * CNN
 * VWAP(거래량 가중평균) analysis
 * etc..
+
+## 업로드 된 코드
+* CNN_model... > [최종 완성] CNN 모델 활용 포트폴리오 구성(데이터 수집 코드 및 파일 제외)
+* VWAP_based.. > vwap 지표 활용 포트폴리오 구성
+* cnn_testing. > CNN 모델 + 데이터 수집 코드 + 여러가지 시도(테스트)
+* stock_2_vec. > 주식 산업별 데이터 시각화 / stock2vec 활용 시각화
+* stockchart.. > 입력 데이터를 위한 다양한 데이터 시각화
